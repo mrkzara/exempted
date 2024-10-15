@@ -1,0 +1,6 @@
+@Exempted_HostAddress = http://localhost:5299
+
+GET {{Exempted_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
