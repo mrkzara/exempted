@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exempted")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e34384119ae889aef720c8a05bd6d92c833f709a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exempted")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exempted")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

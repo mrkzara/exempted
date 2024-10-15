@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RYZEN\\Desktop\\Exempted\\Exempted\\Exempted.csproj": {}
+    "C:\\Users\\student18\\Desktop\\exempted\\exempted\\Exempted\\Exempted\\Exempted.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RYZEN\\Desktop\\Exempted\\Exempted\\Exempted.csproj": {
+    "C:\\Users\\student18\\Desktop\\exempted\\exempted\\Exempted\\Exempted\\Exempted.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RYZEN\\Desktop\\Exempted\\Exempted\\Exempted.csproj",
+        "projectUniqueName": "C:\\Users\\student18\\Desktop\\exempted\\exempted\\Exempted\\Exempted\\Exempted.csproj",
         "projectName": "Exempted",
-        "projectPath": "C:\\Users\\RYZEN\\Desktop\\Exempted\\Exempted\\Exempted.csproj",
-        "packagesPath": "C:\\Users\\RYZEN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RYZEN\\Desktop\\Exempted\\Exempted\\obj\\",
+        "projectPath": "C:\\Users\\student18\\Desktop\\exempted\\exempted\\Exempted\\Exempted\\Exempted.csproj",
+        "packagesPath": "C:\\Users\\student18\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\student18\\Desktop\\exempted\\exempted\\Exempted\\Exempted\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\RYZEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\student18\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
